@@ -1,0 +1,6 @@
+Streaming notes:
+
+1. https://github.com/eslint/eslint
+2. https://en.wikipedia.org/wiki/Lint_(software)
+3. https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+4. https://medium.com/swlh/return-early-pattern-3d18a41bba8
